@@ -1,0 +1,41 @@
+{
+  "name": "gulp-browserify-sass-es6-babel-starter",
+  "version": "1.0.0",
+  "description": "Starter setup for Gulp Babel ES6 and Sass using Browserify",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.1",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-sass": "^3.1.0",
+    "run-sequence": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PocketNinjaDesign/gulp-browserify-sass-es6-babel-starter.git"
+  },
+  "keywords": [
+    "Gulp",
+    "babel",
+    "es6",
+    "sass",
+    "browserify"
+  ],
+  "author": "Pocketninja.design",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PocketNinjaDesign/gulp-browserify-sass-es6-babel-starter/issues"
+  },
+  "homepage": "https://github.com/PocketNinjaDesign/gulp-browserify-sass-es6-babel-starter#readme"
+}
