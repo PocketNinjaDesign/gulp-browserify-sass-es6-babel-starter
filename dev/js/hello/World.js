@@ -1,10 +1,10 @@
 
 export default class World {
   constructor() {
-    this.text = "Hello World";
+    this.text = 'Hello World';
   }
 
   cooeee() {
-    console.log(this.text);
+    return this.text;
   }
 }
